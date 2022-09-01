@@ -1,0 +1,152 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;700&display=swap');
+
+body {
+    max-width: 28em;
+    margin: auto;
+   
+    font-family: 'Raleway', sans-serif;
+    line-height: 2em;
+
+}
+
+
+
+/* HEADER */
+
+header {
+    background-color: #05A1C6;
+    color: white;
+    text-align: center;
+    line-height: 25px;
+    padding: 20px;
+   
+}
+
+header h1 {
+    text-transform: uppercase;
+    font-size: 25px;
+    line-height: 40px;
+}
+
+header h2 {
+    color: black;
+    margin-top: 15px;
+    text-transform: none;
+    font-weight: 200;
+    font-size: 20px;
+
+}
+
+header span { 
+    background-color: white;
+    color: #037794;
+    
+}
+
+/* MAIN */
+ h2 {
+    text-transform: uppercase;
+    font-size: 25px;
+    line-height: 40px;
+    color: #037794;
+    text-align: center;
+    padding: 0.7em;
+    font-weight: 600;
+
+}
+
+figure img {
+    margin: 0 auto;
+    border: 1px solid lightgray ;
+    padding: 10px;
+    
+}
+
+figure { 
+    text-align: center;
+    
+}
+
+figure img{
+    width: 20em;
+    height: 14em;
+}
+
+figcaption {
+    margin-top: 15px;
+}
+
+address {
+    margin-top: 15px;
+
+}
+
+b {
+    font-weight: 700;
+}
+
+blockquote {
+    background-color: lightgrey;
+    padding: 1em;
+    margin: 1.5em;
+    border-radius: 1em;
+    text-align: center;
+    font-style: italic;
+    
+}
+
+strong {
+    color: #037794;
+}
+
+h3 {
+    font-weight: 700;
+}
+
+mark {
+    background-color: #037794;
+    color: white;
+}
+
+a {
+    color: red;
+}
+
+ul {
+    margin: 2em;
+    margin-left: 2.5em;
+    
+}
+
+dd {
+    margin-left: 1.5em;
+}
+
+
+/* FOOTER */
+
+footer {
+    background-color: rgb(45, 45, 45);
+    color: white;
+    text-align: center;
+   
+
+}
+
+footer kbd  {
+    color: yellow;
+    
+}
+
+small {
+    color: silver;
+    margin: 2em;
+}
+
+footer hr {
+    display: none;
+}
+hr{
+    margin:5em;
+}
